@@ -1,0 +1,19 @@
+.nav-header {
+  background-color: #cbd5e1;
+  margin-top: 64px;
+  text-align: center;
+  align-self: stretch;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #475569;
+  font-weight: bold;
+}
+
+@media screen and (min-width: 768px) {
+  .heading {
+    font-size: 40px;
+  }
+}

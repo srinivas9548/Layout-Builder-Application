@@ -1,0 +1,18 @@
+.footer-header {
+  background-color: #cbd5e1;
+  text-align: center;
+  align-self: stretch;
+}
+
+.footer-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #475569;
+  font-weight: bold;
+}
+
+@media screen and (min-width: 768px) {
+  .footer-heading {
+    font-size: 40px;
+  }
+}
